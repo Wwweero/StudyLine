@@ -1,8 +1,8 @@
 # StudyLine 
-A simple python CLI application to create, study, and test flashcards. 
+A simple python CLI application to create and study flashcards. 
 
 ## Features 📍  
-- Add Flashcards: Easily create custom flashcards with a question and answer.  
+- Add Flashcards: Easily create custom flashcards with a question and answer prompt.  
 - View Flashcards: Display all stored flashcards for review.  
 - Delete Flashcards: Remove outdated or unnecessary flashcards.  
 - Study Mode: Review flashcards interactively, revealing answers only when needed.  
