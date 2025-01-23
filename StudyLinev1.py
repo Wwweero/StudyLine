@@ -148,7 +148,7 @@ def show_menu():
     """
     Displays the main menu options to the user.
     """
-    print("\nWelcome to the Flashcard Management System")
+    print("\nWelcome to StudyLine! What would you like to do?")
     print("1. Add a new flashcard")
     print("2. View all flashcards")
     print("3. Delete a flashcard")
@@ -177,7 +177,7 @@ def flashcard_app():
             elif choice == 5:
                 app.test_flashcards()
             elif choice == 6:
-                print("Exiting the Flashcard Management System. Goodbye!")
+                print("Exiting StudyLine. Goodbye!")
                 break  # Exits the loop to end the program
             else:
                 print("Invalid choice. Please try again.")
